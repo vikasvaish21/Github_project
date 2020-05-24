@@ -1,5 +1,5 @@
 ### Date created
-<<<<<<< HEAD
+
 May 24th 2020
 
 ### Project Title
@@ -33,5 +33,20 @@ https://stackoverflow.com/questions/59874756/counting-mode-occurrences-for-all-c
 https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/
 
 https://www.geeksforgeeks.org/enumerate-in-python/
+=======
+Include the date you created this project and README file.
+
+### Project Title
+Replace the Project Title
+
+### Description
+Describe what your project is about and what it does
+
+### Files used
+Include the files used
+
+### Credits
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+>>>>>>> refactoring
 
 
