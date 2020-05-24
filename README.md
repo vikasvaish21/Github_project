@@ -19,4 +19,19 @@ chicago.csv
 new york city.csv
 washington.csv
 
+### Credits
+
+http://queirozf.com/entries/pandas-dataframe-examples-column-operations
+
+https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
+
+https://www.w3resource.com/pandas/series/series-loc.php
+
+https://stackoverflow.com/questions/59874756/counting-mode-occurrences-for-all-columns-in-a-dataframe
+
+https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/
+
+https://www.geeksforgeeks.org/enumerate-in-python/
+
+https://docs.python.org/3/library/functions.html
 
