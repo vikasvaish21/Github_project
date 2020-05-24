@@ -1,4 +1,5 @@
 ### Date created
+<<<<<<< HEAD
 May 24th 2020
 
 ### Project Title
@@ -33,5 +34,4 @@ https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/
 
 https://www.geeksforgeeks.org/enumerate-in-python/
 
-https://docs.python.org/3/library/functions.html
 
